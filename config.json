@@ -1,0 +1,11 @@
+{
+    "source_folder": "C:/epub",
+    "sent_folder": "C:/epub/backup",
+    "smtp_server": "securesmtp.t-online.de",
+    "smtp_port": 587,
+    "username": "irena.ramon@t-online.de",
+    "password": "irena854ramon",
+    "kindle1": "miera.heinig_97@kindle.com",
+    "kindle2": "schaubmargitta@kindle.com",
+    "active_kindle": "kindle1"
+}
