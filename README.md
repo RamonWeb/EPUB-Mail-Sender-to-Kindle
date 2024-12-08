@@ -11,6 +11,7 @@ Dieses Python-Projekt ermöglicht das Versenden von EPUB-Dateien aus einem Quell
 - **Automatische Datei-Verschiebung**: Nach dem erfolgreichen Senden wird die Datei automatisch in den Backup-Ordner verschoben. Wenn die Datei bereits existiert, wird ein neuer Name vergeben, um Konflikte zu vermeiden.
 - **Benutzerfreundliche GUI**: Mit einer intuitiven Benutzeroberfläche, die eine einfache Bedienung ermöglicht.
 
+
 ## Voraussetzungen
 
 - Python 3.x
@@ -23,6 +24,8 @@ Dieses Python-Projekt ermöglicht das Versenden von EPUB-Dateien aus einem Quell
 1. Klone das Repository oder lade den Code herunter:
    ```bash
    git clone https://github.com/RamonWeb/EPUB-Mail-Sender-to-Kindle.git
+
+2. https://github.com/RamonWeb/EPUB-Mail-Sender-to-Kindle/wiki
 
 ------------------------
 # EPUB Mail Sender for Kindle
@@ -49,3 +52,6 @@ This Python project allows you to send EPUB files from a source folder to one or
 1. Clone the repository or download the code:
    ```bash
    git clone https://github.com/RamonWeb/EPUB-Mail-Sender-to-Kindle.git
+
+2. https://github.com/RamonWeb/EPUB-Mail-Sender-to-Kindle/wiki
+   
